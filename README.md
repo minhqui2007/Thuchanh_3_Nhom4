@@ -74,4 +74,4 @@ Dưới đây là tóm tắt các kỹ năng và nội dung chính đã được
 
 ---
 
-Copyright © 2024 - Bài tập nhóm Tin học Đại cương
+Copyright © 2026 - Bài tập nhóm môn Nền tảng công nghệ số
