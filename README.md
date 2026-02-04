@@ -1,12 +1,12 @@
 # Thuchanh_3_Nhom4
 
-# 📊 Báo cáo Thực hành: Microsoft Excel & Google Sheets
-
+# 📊  **Bài Thực Hành 03 Nhóm 4**
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-> **Bài Thực Hành 03**
+># Báo cáo Thực hành: Microsoft Excel & Google Sheets
+
 >
 > *Nội dung trọng tâm: Xử lý bảng tính nâng cao, các hàm tính toán, trực quan hóa dữ liệu và làm việc nhóm trực tuyến.*
 
